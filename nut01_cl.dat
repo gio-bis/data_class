@@ -1,10 +1,4 @@
-# dimensionless total [l(l+1)/2pi] C_l's
-# for l=2 to 2500, i.e. number of multipoles equal to 2499
-#
-# -> if you prefer output in CAMB/HealPix/LensPix units/order, set 'format' to 'camb' in input file
-# -> if you don't want to see such a header, set 'headers' to 'no' in input file
-#
-# 1:l     2:TT                 
+    1:l     2:TT                 
     2       1.381671641581e-10 
     3       1.306687513033e-10 
     4       1.236002942147e-10 
